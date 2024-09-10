@@ -1,6 +1,8 @@
 package com.example.myapplication
 
+import android.content.Context
 import android.os.Bundle
+import android.view.textclassifier.TextLanguage
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContentProviderCompat.requireContext
 import androidx.lifecycle.Observer
